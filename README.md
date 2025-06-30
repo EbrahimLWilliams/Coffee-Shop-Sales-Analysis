@@ -19,7 +19,9 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 -	Which products generate the most revenue
 -	Recommendations for improving sales performance
 
+
 📊 B. SUMMARY OF ANALYSIS
+
 
 💰 1.	Revenue 
 
@@ -37,6 +39,7 @@ Jun – R18 202, 00 (21%)
 Astoria – R29 866, 00 (34%)
 Hell’s Kitchen – R30 064, 00 (34%)
 Lower Manhattan – R28 672, 00 (32%)
+
 
 📈 2.	SALES 
 
@@ -63,6 +66,7 @@ Afternoon Slump (Peak) - 14%
 Mid-Afternoon (Off-Peak) - 8%
 Evenings (Off-Peak) -17%
 
+
 ☕ 3.	PRODUCTS
 
 🛒Sales and Revenue in terms of Products
@@ -78,6 +82,7 @@ Flavours – 5%
 -	Coffee beans, loose tea, branded and packaged chocolate are our lowest-selling product categories across all stores.
 -	Barista Espresso, Brewed Chai Tea, and Gourmet Brewed Coffee are our best-selling products. 
 -	Clothing, Organic Chocolate, House Blend Beans, and Green Tea are our lowest-selling products.
+
 
 🎯 4.	RECOMMENDATIONS
 
