@@ -25,7 +25,6 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
 💰 **1.	Revenue**
 
-
 🔸**Total Revenue: R88 602, 00**
 
 🗓 **Monthly Revenue Distribution**
@@ -43,14 +42,11 @@ May – R18 093, 00 (20%)
 Jun – R18 202, 00 (21%)
 
 
-
 🏪 **Revenue By Store**
 
 Astoria – R29 866, 00 (34%)
 Hell’s Kitchen – R30 064, 00 (34%)
 Lower Manhattan – R28 672, 00 (32%)
-
-
 
 
 📈 **2.	SALES**
