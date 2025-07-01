@@ -1,4 +1,4 @@
-📋 # A.	PROJECT BRIEF
+📋 A.	PROJECT BRIEF
 
 🔹 1.  Introduction 
 
