@@ -1,5 +1,5 @@
 📋 **A.	PROJECT BRIEF**
-<br />
+
 🔹 **1.  Introduction** 
 
 The following is a data analysis project performed on behalf of the Bright Co. CEO. The project will include a project content is made up of the following:
