@@ -1,30 +1,30 @@
 📋 **A.	PROJECT BRIEF**
-
+<br/>
 🔹 **1.  Introduction** 
-
+<br/>
 The following is a data analysis project performed on behalf of the Bright Co. CEO. The project will include a project content is made up of the following:
 -	Input Files – Project Brief and Raw Data
 -	Working Files – Project Plan, SQL Script and SQL Output
 -	Output Files -  SQL Output, Pivot Table and Visuals, and Presentation
-
+<br/>
 🔹**2. Problem Statement**
-
+<br/>
 You have been provided with a dataset titled “Bright Coffee Shop Sales”, which captures daily transactional information from a coffee shop. The business has recently appointed a new CEO whose mission is to grow the company’s revenue and improve product performance. Your role, as a Junior Data Analyst, is to extract actionable insights from historical data and prepare a presentation to assist the CEO in decision-making.
-
+<br/>
 🔹**3. Aim of Analysis**
-
+<br/>
 -	To determine total revenue and sales. 
 -	Sales and revenue trends across products and time intervals
 -	What time of day the store performs best
 -	Which products generate the most revenue
 -	Recommendations for improving sales performance
-
+<br/>
 
 📊 **B. SUMMARY OF ANALYSIS**
-
+<br/>
 
 💰 **1.	Revenue**
-
+<br/>
 🔸**1.1. Total Revenue: R88 602, 00**
 
 🗓 **Monthly Revenue Distribution**
@@ -40,7 +40,7 @@ Apr – R15 232, 00 (17%)
 May – R18 093, 00 (20%)
 
 Jun – R18 202, 00 (21%)
-
+<br/>
 
 🏪 **1.2. Revenue By Store**
 
