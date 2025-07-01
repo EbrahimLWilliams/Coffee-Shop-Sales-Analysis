@@ -49,7 +49,7 @@ Hell’s Kitchen – R30 064, 00 (34%)
 Lower Manhattan – R28 672, 00 (32%)
 
 
-📈 **2.	SALES**
+📈 **2.	Sales**
 
 🔸 **Total Sales: 149 116**
 
@@ -94,7 +94,7 @@ Evenings (Off-Peak) -17%
 
 
 
-☕ **3.	PRODUCTS**
+☕ **3.	Products**
 
 🛒**3.1. Sales and Revenue in terms of Products**
 
