@@ -1,4 +1,4 @@
-📋 A.	PROJECT BRIEF
+📋 # A.	PROJECT BRIEF
 
 🔹 1.  Introduction 
 
@@ -46,7 +46,7 @@ Lower Manhattan – R28 672, 00 (32%)
 🔸 Total Sales: 149 116
 
 🗓 Monthly Sales Distribution
-Jan – 17 3 14 (11%)
+Jan – 17 314 (11%)
 Feb – 16 359 (11%)
 Mar – 21 229 (14%)
 Apr – 25 335 (17%)
