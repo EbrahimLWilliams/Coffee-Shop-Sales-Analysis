@@ -36,7 +36,9 @@ Feb – R11 145, 00 (13%)
 Mar – R13 866, 00 (16%)
 
 Apr – R15 232, 00 (17%)
+
 May – R18 093, 00 (20%)
+
 Jun – R18 202, 00 (21%)
 
 🏪 **Revenue By Store**
@@ -53,10 +55,15 @@ Lower Manhattan – R28 672, 00 (32%)
 🗓 **Monthly Sales Distribution**
 
 Jan – 17 314 (11%)
+
 Feb – 16 359 (11%)
+
 Mar – 21 229 (14%)
+
 Apr – 25 335 (17%)
+
 May – 33 527 (22%)
+
 Jun – 35 352 (24%)
 
 🏪 **Sales By Store**
@@ -68,10 +75,15 @@ Lower Manhattan – 47782 (32%)
 ⏰ **Sales by Time Distribution**
 
 Morning Rush (Peak) - 26%
+
 Mid-Morning (Off-Peak) - 20%
+
 Lunchtime (Peak) - 14%
+
 Afternoon Slump (Peak) - 14%
+
 Mid-Afternoon (Off-Peak) - 8%
+
 Evenings (Off-Peak) -17%
 
 
