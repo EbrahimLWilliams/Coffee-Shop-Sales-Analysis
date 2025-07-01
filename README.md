@@ -25,7 +25,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
 💰 **1.	Revenue**
 
-🔸**Total Revenue: R88 602, 00**
+🔸**1.1. Total Revenue: R88 602, 00**
 
 🗓 **Monthly Revenue Distribution**
 
@@ -42,7 +42,7 @@ May – R18 093, 00 (20%)
 Jun – R18 202, 00 (21%)
 
 
-🏪 **Revenue By Store**
+🏪 **1.2. Revenue By Store**
 
 Astoria – R29 866, 00 (34%)
 Hell’s Kitchen – R30 064, 00 (34%)
@@ -53,7 +53,7 @@ Lower Manhattan – R28 672, 00 (32%)
 
 🔸 **Total Sales: 149 116**
 
-🗓 **Monthly Sales Distribution**
+🗓 **2.1. Monthly Sales Distribution**
 
 Jan – 17 314 (11%)
 
@@ -69,7 +69,7 @@ Jun – 35 352 (24%)
 
 
 
-🏪 **Sales By Store**
+🏪 **2.2. Sales By Store**
 
 Astoria – 50 599 (34%)
 Hell’s Kitchen – 50735 (34%)
@@ -77,7 +77,7 @@ Lower Manhattan – 47782 (32%)
 
 
 
-⏰ **Sales by Time Distribution**
+⏰ **2.3. Sales by Time Distribution**
 
 Morning Rush (Peak) - 26%
 
@@ -96,9 +96,9 @@ Evenings (Off-Peak) -17%
 
 ☕ **3.	PRODUCTS**
 
-🛒**Sales and Revenue in terms of Products**
-**Top 5 Product Categories:**
+🛒**3.1. Sales and Revenue in terms of Products**
 
+**Top 5 Product Categories:**
 1.Coffee – 39%
 2. Tea – 30%
 3. Bakery – 15%
@@ -107,7 +107,7 @@ Evenings (Off-Peak) -17%
 
 
 
-🛍 **Product Analysis**
+🛍 **3.2. Product Analysis**
 -	Across all three stores, coffee, tea and baked goods are our highest-selling product categories, followed by drinking chocolate and flavours.
 -	Coffee beans, loose tea, branded and packaged chocolate are our lowest-selling product categories across all stores.
 -	Barista Espresso, Brewed Chai Tea, and Gourmet Brewed Coffee are our best-selling products. 
