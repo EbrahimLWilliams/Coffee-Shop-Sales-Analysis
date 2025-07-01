@@ -28,6 +28,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 🔸**Total Revenue: R88 602, 00**
 
 🗓 **Monthly Revenue Distribution**
+
 Jan - R12 064,00 (14%)
 Feb – R11 145, 00 (13%)
 Mar – R13 866, 00 (16%)
@@ -36,6 +37,7 @@ May – R18 093, 00 (20%)
 Jun – R18 202, 00 (21%)
 
 🏪 **Revenue By Store**
+
 Astoria – R29 866, 00 (34%)
 Hell’s Kitchen – R30 064, 00 (34%)
 Lower Manhattan – R28 672, 00 (32%)
@@ -46,6 +48,7 @@ Lower Manhattan – R28 672, 00 (32%)
 🔸 **Total Sales: 149 116**
 
 🗓 **Monthly Sales Distribution**
+
 Jan – 17 314 (11%)
 Feb – 16 359 (11%)
 Mar – 21 229 (14%)
@@ -54,11 +57,13 @@ May – 33 527 (22%)
 Jun – 35 352 (24%)
 
 🏪 **Sales By Store**
+
 Astoria – 50 599 (34%)
 Hell’s Kitchen – 50735 (34%)
 Lower Manhattan – 47782 (32%)
 
 ⏰ **Sales by Time Distribution**
+
 Morning Rush (Peak) - 26%
 Mid-Morning (Off-Peak) - 20%
 Lunchtime (Peak) - 14%
@@ -71,11 +76,12 @@ Evenings (Off-Peak) -17%
 
 🛒**Sales and Revenue in terms of Products**
 **Top 5 Product Categories:**
-Coffee – 39%
-Tea – 30%
-Bakery – 15%
-Drinking Chocolate – 8%
-Flavours – 5%
+
+1.Coffee – 39%
+2. Tea – 30%
+3. Bakery – 15%
+4. Drinking Chocolate – 8%
+5. Flavours – 5%
 
 🛍 **Product Analysis**
 -	Across all three stores, coffee, tea and baked goods are our highest-selling product categories, followed by drinking chocolate and flavours.
