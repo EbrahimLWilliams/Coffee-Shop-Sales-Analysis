@@ -30,8 +30,11 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 🗓 **Monthly Revenue Distribution**
 
 Jan - R12 064,00 (14%)
+
 Feb – R11 145, 00 (13%)
+
 Mar – R13 866, 00 (16%)
+
 Apr – R15 232, 00 (17%)
 May – R18 093, 00 (20%)
 Jun – R18 202, 00 (21%)
