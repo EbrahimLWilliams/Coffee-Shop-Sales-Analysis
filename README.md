@@ -45,8 +45,11 @@ Jun – R18 202, 00 (21%)
 🏪 **1.2. Revenue By Store**
 
 Astoria – R29 866, 00 (34%)
+
 Hell’s Kitchen – R30 064, 00 (34%)
+
 Lower Manhattan – R28 672, 00 (32%)
+
 
 
 📈 **2.	Sales**
