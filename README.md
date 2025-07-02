@@ -29,26 +29,26 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
 🗓 **Monthly Revenue Distribution**
 
-Jan - R12 064,00 (14%)
+- Jan - R12 064,00 (14%)
 
-Feb – R11 145, 00 (13%)
+- Feb – R11 145, 00 (13%)
 
-Mar – R13 866, 00 (16%)
+- Mar – R13 866, 00 (16%)
 
-Apr – R15 232, 00 (17%)
+- Apr – R15 232, 00 (17%)
 
-May – R18 093, 00 (20%)
+- May – R18 093, 00 (20%)
 
-Jun – R18 202, 00 (21%)
-<br/>
+- Jun – R18 202, 00 (21%)
+
 
 🏪 **1.2. Revenue By Store**
 
-Astoria – R29 866, 00 (34%)
+- Astoria – R29 866, 00 (34%)
 
-Hell’s Kitchen – R30 064, 00 (34%)
+- Hell’s Kitchen – R30 064, 00 (34%)
 
-Lower Manhattan – R28 672, 00 (32%)
+- Lower Manhattan – R28 672, 00 (32%)
 
 
 
@@ -58,44 +58,41 @@ Lower Manhattan – R28 672, 00 (32%)
 
 🗓 **2.1. Monthly Sales Distribution**
 
-Jan – 17 314 (11%)
+- Jan – 17 314 (11%)
 
-Feb – 16 359 (11%)
+- Feb – 16 359 (11%)
 
-Mar – 21 229 (14%)
+- Mar – 21 229 (14%)
 
-Apr – 25 335 (17%)
+- Apr – 25 335 (17%)
 
-May – 33 527 (22%)
+- May – 33 527 (22%)
 
-Jun – 35 352 (24%)
+- Jun – 35 352 (24%)
 
 
 
 🏪 **2.2. Sales By Store**
 
-Astoria – 50 599 (34%)
-Hell’s Kitchen – 50735 (34%)
-Lower Manhattan – 47782 (32%)
+- Astoria – 50 599 (34%)
+- Hell’s Kitchen – 50735 (34%)
+- Lower Manhattan – 47782 (32%)
 
 
 
 ⏰ **2.3. Sales by Time Distribution**
 
-Morning Rush (Peak) - 26%
+- Morning Rush (Peak) - 26%
 
-Mid-Morning (Off-Peak) - 20%
+- Mid-Morning (Off-Peak) - 20%
 
-Lunchtime (Peak) - 14%
+- Lunchtime (Peak) - 14%
 
-Afternoon Slump (Peak) - 14%
+- Afternoon Slump (Peak) - 14%
 
-Mid-Afternoon (Off-Peak) - 8%
+- Mid-Afternoon (Off-Peak) - 8%
 
-Evenings (Off-Peak) -17%
-
-
-
+- Evenings (Off-Peak) -17%
 
 ☕ **3.	Products**
 
@@ -117,8 +114,6 @@ Evenings (Off-Peak) -17%
 -	Clothing, Organic Chocolate, House Blend Beans, and Green Tea are our lowest-selling products.
 
   
-
-
 🎯 **4.	RECOMMENDATIONS**
 
 💡**Store Performance**
