@@ -99,13 +99,17 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 🛒**3.1. Sales and Revenue in terms of Products**
 
 **Top 5 Product Categories:**
+
 1.Coffee – 39%
+
 2. Tea – 30%
-3. Bakery – 15%
-4. Drinking Chocolate – 8%
-5. Flavours – 5%
-
-
+   
+4. Bakery – 15%
+   
+6. Drinking Chocolate – 8%
+   
+8. Flavours – 5%
+   
 
 🛍 **3.2. Product Analysis**
 -	Across all three stores, coffee, tea and baked goods are our highest-selling product categories, followed by drinking chocolate and flavours.
