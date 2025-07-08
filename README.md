@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/61b19354-5bda-4b5e-bb7b-83b5c808d50f)📋 **A.	PROJECT BRIEF**
+📋 **A.	PROJECT BRIEF**
 
 🔹 **1.  Introduction** 
 
@@ -42,9 +42,13 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 - Jun – R18 202, 00 (21%)
 
 **Key Insights**
+
 -Total Revenue over the past 6 months: R88. 602
+
 -53% of this revenue was generated in the last quarter (April, May and June).
+
 -There has been consistent growth in our revenue from March to June.
+
 
 
 
@@ -57,7 +61,9 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 - Lower Manhattan – R28 672, 00 (32%)
 
 **Key Insights**
+
 -Hell’s Kitchen and Astoria are our highest revenue-generating stores, bringing in about 34%  each of the total revenue of R88. 602
+
 -Our Lower Manhattan store, however, does not lag far behind, at 32%.
 
 
@@ -80,8 +86,11 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 - Jun – 35 352 (24%)
 
 **Key Insights**
+
 -Mirroring our revenue trend over the past 6 months, more than 50% of our sales were generated during  the last quarter (April, May and June).
+
 -Sales has seen  a consistent increase from March to June. June was our highest performing month in terms of sales.
+
 -A majority of our sales are from low spenders, followed by medium spenders.
 
 
@@ -94,8 +103,11 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 - Lower Manhattan – 47782 (32%)
 
 **Key insights**
+
 - Hell’s Kitchen and Astoria are our highest sales-generating stores, bringing in about 34%  each of the total sales of 149,116.
+  
 - Our Lower Manhattan store, however, does not lag too far behind, at 32%.
+  
 
 
 ⏰ **2.3. Sales by Time Distribution**
@@ -113,14 +125,18 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 - Evenings (Off-Peak) -17%
 
   **Key Insights**
-- A majority of our sales are generated during the peak morning rush, off-peak mid-morning and evening hours. 
+  
+- A majority of our sales are generated during the peak morning rush, off-peak mid-morning and evening hours.
+  
 - Our lowest sales are during lunchtime, the afternoon slump, and off-peak mid-afternoon hours.
+  
 
  
 
 ☕ **3.	Products**
 
 🛒**3.1. Sales and Revenue in terms of Products**
+
 
 **Top 5 Product Categories:**
 
@@ -133,14 +149,19 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 6. Drinking Chocolate – 8%
    
 8. Flavours – 5%
+   
 
 **Key Insights**
--	Across all three stores, coffee, tea and baked goods are our highest-selling product categories, followed by drinking chocolate and flavours.
--	Coffee beans, loose tea, branded and packaged chocolate are our lowest-selling product categories across all stores.
--	Barista Espresso, Brewed Chai Tea, and Gourmet Brewed Coffee are our best-selling products. 
--	Clothing, Organic Chocolate, House Blend Beans, and Green Tea are our lowest-selling products.
 
+-	Across all three stores, coffee, tea and baked goods are our highest-selling product categories, followed by drinking chocolate and flavours.
   
+-	Coffee beans, loose tea, branded and packaged chocolate are our lowest-selling product categories across all stores.
+  
+-	Barista Espresso, Brewed Chai Tea, and Gourmet Brewed Coffee are our best-selling products.
+  
+-	Clothing, Organic Chocolate, House Blend Beans, and Green Tea are our lowest-selling products.
+  
+
 🎯 **4.	RECOMMENDATIONS**
 
 💡**Store Performance**
