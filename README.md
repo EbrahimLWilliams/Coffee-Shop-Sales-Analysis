@@ -20,6 +20,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 -	Recommendations for improving sales performance
 
 
+
 📊 **B. SUMMARY OF ANALYSIS**
 
 
@@ -160,6 +161,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 -	Barista Espresso, Brewed Chai Tea, and Gourmet Brewed Coffee are our best-selling products.
   
 -	Clothing, Organic Chocolate, House Blend Beans, and Green Tea are our lowest-selling products.
+
   
 
 🎯 **4.	RECOMMENDATIONS**
