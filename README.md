@@ -1,17 +1,17 @@
-📋 **A.	PROJECT BRIEF**
+# 📋 **A.	PROJECT BRIEF**
 
-🔹 **1.  Introduction** 
+## 🔹 **1.  Introduction** 
 
 The following is a data analysis project performed on behalf of the Bright Co. CEO. The project will include a project content is made up of the following:
 -	Input Files – Project Brief and Raw Data
 -	Working Files – Project Plan, SQL Script and SQL Output
 -	Output Files -  SQL Output, Pivot Table and Visuals, and Presentation
 
-🔹**2. Problem Statement**
+## 🔹**2. Problem Statement**
 
 You have been provided with a dataset titled “Bright Coffee Shop Sales”, which captures daily transactional information from a coffee shop. The business has recently appointed a new CEO whose mission is to grow the company’s revenue and improve product performance. Your role, as a Junior Data Analyst, is to extract actionable insights from historical data and prepare a presentation to assist the CEO in decision-making.
 
-🔹**3. Aim of Analysis**
+## 🔹**3. Aim of Analysis**
 
 -	To determine total revenue and sales. 
 -	Sales and revenue trends across products and time intervals
@@ -21,12 +21,12 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
 
 
-📊 **B. SUMMARY OF ANALYSIS**
+# 📊 **B. SUMMARY OF ANALYSIS**
 
 
-💰 **1.	Revenue**
+## 💰 **1.	Revenue**
 
-🔸**1.1. Total Revenue: R88 602, 00**
+## 🔸**1.1. Total Revenue: R88 602, 00**
 
 🗓 **Monthly Revenue Distribution**
 
@@ -53,7 +53,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
 
 
-🔸 **1.2. Revenue By Store**
+## 🔸 **1.2. Revenue By Store**
 
 - Astoria – R29 866, 00 (34%)
 
@@ -68,7 +68,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 -Our Lower Manhattan store, however, does not lag far behind, at 32%.
 
 
-📈 **2.	Sales**
+# 📈 **2.	Sales**
 
 🔸 **Total Sales: 149 116**
 
@@ -97,7 +97,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
 
 
-🔸 **2.2. Sales By Store**
+## 🔸 **2.2. Sales By Store**
 
 - Astoria – 50 599 (34%)
 - Hell’s Kitchen – 50735 (34%)
@@ -111,7 +111,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
   
 
 
-🔸 **2.3. Sales by Time Distribution**
+## 🔸 **2.3. Sales by Time Distribution**
 
 - Morning Rush (Peak) - 26%
 
@@ -134,9 +134,9 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
  
 
-☕ **3.	Products**
+# ☕ **3.	Products**
 
-🔸**3.1. Sales and Revenue in terms of Products**
+## 🔸**3.1. Sales and Revenue in terms of Products**
 
 
 **Top 5 Product Categories:**
@@ -164,7 +164,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
   
 
-🎯 **4.	RECOMMENDATIONS**
+# 🎯 **4.	RECOMMENDATIONS**
 
 💡**Store Performance**
 -	Make coffee shops more attractive. Enhance store interiors to make stores more comfortable and welcoming to encourage increased visits and longer stays. Add additional features such as Wifi and Charging Stations for phones and digital devices.
