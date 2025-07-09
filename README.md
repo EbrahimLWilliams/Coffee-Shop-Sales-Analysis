@@ -42,7 +42,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
 - Jun – R18 202, 00 (21%)
 
-**Key Insights**
+### **Key Insights**
 
 -Total Revenue over the past 6 months: R88. 602
 
@@ -61,7 +61,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
 - Lower Manhattan – R28 672, 00 (32%)
 
-**Key Insights**
+### **Key Insights**
 
 -Hell’s Kitchen and Astoria are our highest revenue-generating stores, bringing in about 34%  each of the total revenue of R88. 602
 
@@ -86,7 +86,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
 - Jun – 35 352 (24%)
 
-**Key Insights**
+### **Key Insights**
 
 -Mirroring our revenue trend over the past 6 months, more than 50% of our sales were generated during  the last quarter (April, May and June).
 
@@ -103,7 +103,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 - Hell’s Kitchen – 50735 (34%)
 - Lower Manhattan – 47782 (32%)
 
-**Key insights**
+### **Key insights**
 
 - Hell’s Kitchen and Astoria are our highest sales-generating stores, bringing in about 34%  each of the total sales of 149,116.
   
@@ -125,7 +125,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
 - Evenings (Off-Peak) -17%
 
-  **Key Insights**
+### **Key Insights**
   
 - A majority of our sales are generated during the peak morning rush, off-peak mid-morning and evening hours.
   
@@ -152,7 +152,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 8. Flavours – 5%
    
 
-**Key Insights**
+### **Key Insights**
 
 -	Across all three stores, coffee, tea and baked goods are our highest-selling product categories, followed by drinking chocolate and flavours.
   
@@ -166,16 +166,16 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
 # 🎯 **4.	RECOMMENDATIONS**
 
-💡**Store Performance**
+### 💡**Store Performance**
 -	Make coffee shops more attractive. Enhance store interiors to make stores more comfortable and welcoming to encourage increased visits and longer stays. Add additional features such as Wifi and Charging Stations for phones and digital devices.
 -	Host special events on slow days such as open-mike nights, poetry readings, liver performances or book clubs to increase attract new customers and retain existing customers.
 
-💡**Sales and Revenue Performance**
+### 💡**Sales and Revenue Performance**
 -	Implement a loyalty programme to improve sales and revenue during slow days and off-peak hours. 
 -	Increase social media and digital media output during slow days and off-peak hours to encourage customers to visit stores and buy products. 
 -	Use influencer marketing and improve online presence.
 
-💡 **Product Performance**
+### 💡 **Product Performance**
 -	Maximize on our low lunchtime sales by introducing lunchtime meal items.
 -	Have promotions on slow-moving products during peak hours. 
 -	Have promotions on best-selling products during slow days/ off-peak hours.
