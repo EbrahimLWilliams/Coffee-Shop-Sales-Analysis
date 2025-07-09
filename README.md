@@ -28,7 +28,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
 ## 🔸**1.1. Total Revenue: R88 602, 00**
 
-🗓 **Monthly Revenue Distribution**
+### 🗓 **Monthly Revenue Distribution**
 
 - Jan - R12 064,00 (14%)
 
@@ -70,9 +70,9 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
 # 📈 **2.	Sales**
 
-🔸 **Total Sales: 149 116**
+## 🔸 **Total Sales: 149 116**
 
-🔸 **2.1. Monthly Sales Distribution**
+### 🔸 **2.1. Monthly Sales Distribution**
 
 - Jan – 17 314 (11%)
 
@@ -139,7 +139,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 ## 🔸**3.1. Sales and Revenue in terms of Products**
 
 
-**Top 5 Product Categories:**
+### **Top 5 Product Categories:**
 
 1. Coffee – 39%
 
