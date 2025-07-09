@@ -53,7 +53,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
 
 
-🏪 **1.2. Revenue By Store**
+🔸 **1.2. Revenue By Store**
 
 - Astoria – R29 866, 00 (34%)
 
@@ -72,7 +72,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
 🔸 **Total Sales: 149 116**
 
-🗓 **2.1. Monthly Sales Distribution**
+🔸 **2.1. Monthly Sales Distribution**
 
 - Jan – 17 314 (11%)
 
@@ -97,7 +97,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
 
 
-🏪 **2.2. Sales By Store**
+🔸 **2.2. Sales By Store**
 
 - Astoria – 50 599 (34%)
 - Hell’s Kitchen – 50735 (34%)
@@ -111,7 +111,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
   
 
 
-⏰ **2.3. Sales by Time Distribution**
+🔸 **2.3. Sales by Time Distribution**
 
 - Morning Rush (Peak) - 26%
 
@@ -136,7 +136,7 @@ You have been provided with a dataset titled “Bright Coffee Shop Sales”, whi
 
 ☕ **3.	Products**
 
-🛒**3.1. Sales and Revenue in terms of Products**
+🔸**3.1. Sales and Revenue in terms of Products**
 
 
 **Top 5 Product Categories:**
